@@ -1,16 +1,14 @@
-¿En qué año de tu carrera te encuentras actualmente?;¿Cuál es tu edad?;¿Cuál es tu género?;1. ¿Qué tan 4 estás en que los estudiantes copian y pegan información sin citar las fuentes adecuadamente?;2. ¿Cuán importante crees que es citar adecuadamente las fuentes en los trabajos académicos?;3. ¿Consideras que los trabajos hechos por otros es una forma común de obtener calificaciones en tu escuela?;4. ¿Qué tan frecuente crees que es el copiar en exámenes entre los estudiantes de nuestra universidad?;5. ¿Qué tan frecuente crees que es el otorgamiento injustificados de calificaciones altas en tu escuela?;6. ¿Crees que algu1s estudiantes reciben un trato preferencial en la atención o evaluación por parte de los profesores?;7. ¿Has observado casos en los que ciertos estudiantes reciben más oportunidades para participar en actividades académicas que otros?;8. ¿Has experimentado alguna vez amenazas de represalias académicas por parte de algún profesor debido a situaciones 1 relacionadas con el aprendizaje?;9. ¿Has presenciado alguna vez a profesores utilizando su autoridad para coaccionar a los estudiantes a aceptar sobor1s o participar en actividades académicas deshonestas?;10. ¿Has sido testigo de casos en los que se impusieron consecuencias injustas o desproporcionadas a estudiantes sin justificación?;11. ¿Has sido testigo de casos en los que se ofreció a los estudiantes la opción de obtener un título o certificado a cambio de pagos o favores sin cumplir con los requisitos académicos?;12. ¿Tuvo co1cimiento de la expedición de títulos o certificados falsos o 1 reco1cidos por parte de nuestra universidad?;13. ¿Has presenciado casos en los que se negoció la obtención de beneficios en el comedor universitario u otras dependencias de la UNHEVAL a estudiantes por influencia política o amistad?;14.¿Te has sentido alguna vez emocionalmente manipulado por un miembro del personal académico?;15. ¿Has sido testigo o tuviste co1cimiento de casos en los que se exigieron favores sexuales a cambio de beneficios académicos?;17. ¿Has sido testigo o tuviste co1cimiento que en tu escuela, los profesores cobran para aprobar los cursos?;18. ¿En tu escuela, en que cursos consideran que los profesores cobran o piden favores por aprobar un curso?;19. ¿Consideras que los administrativos cobran o piden favores por realizar o agilizar tus tramites?;20. ¿Qué tipo de prebenda o favores solicitan los profesores para aprobar el curso?
-3;1;F;1;1;2;5;2;4;3;3;2;2;2;2;1;5;1;2;Ninguna;1;Favor monetario
-3;2;F;2;4;3;3;3;4;4;2;2;2;1;1;2;1;1;2;Ninguna;2;Favor monetario
-4;3;F;1;5;3;4;3;4;3;3;3;3;3;1;3;3;3;3;Ninguna;3;Favor monetario
-2;2;F;4;2;3;2;1;1;1;1;1;1;1;3;1;1;2;2;Educación física;1;Favor monetario
-3;1;F;1;5;4;3;2;2;1;1;1;1;1;1;1;1;1;2;Ninguna;1;Regalos
-2;2;F;3;3;2;3;3;3;3;1;1;1;1;1;2;2;3;3;Ninguna;1;Regalos
-3;3;F;1;3;1;3;2;1;2;2;1;2;1;1;1;1;2;2;ninguna;1;Polladas
-2;2;M;1;4;1;2;2;1;2;1;1;1;1;1;1;1;1;1;ninguna;1;Favor monetario
-6;4;M;1;5;4;5;4;3;3;2;2;2;1;1;1;1;1;1;Medicina humana;2;Regalos
-4;3;M;2;4;3;3;2;1;1;1;1;1;1;1;2;1;1;1;Ninguna;1;Regalos
-5;3;M;2;2;4;2;2;2;1;2;1;1;2;2;3;1;2;1;Ninguna;2;Regalos
-4;3;F;2;2;2;2;1;2;2;1;1;2;1;1;3;1;2;1;Ninguna;3;Favor sexual
-3;4;M;2;4;4;3;3;3;3;2;2;3;1;2;2;2;1;2;Fisiología;2;Polladas
-3;3;M;1;4;1;3;2;2;3;1;1;1;1;1;3;1;1;1;ninguna;1;Polladas
-2;2;M;1;4;2;2;3;1;2;1;1;1;1;1;2;1;1;1;Ningún curso;2;Favor monetario
+3,2,F,2,4,3,3,3,4,4,2,2,2,1,1,2,1,1,2,Ninguna,2,Favor monetario
+4,3,F,1,5,3,4,3,4,3,3,3,3,3,1,3,3,3,3,Ninguna,3,Favor monetario
+2,2,F,4,2,3,2,1,1,1,1,1,1,1,3,1,1,2,2,EducaciÃ³n fÃ­sica,1,Favor monetario
+3,1,F,1,5,4,3,2,2,1,1,1,1,1,1,1,1,1,2,Ninguna,1,Regalos
+2,2,F,3,3,2,3,3,3,3,1,1,1,1,1,2,2,3,3,Ninguna,1,Regalos
+3,3,F,1,3,1,3,2,1,2,2,1,2,1,1,1,1,2,2,ninguna,1,Polladas
+2,2,M,1,4,1,2,2,1,2,1,1,1,1,1,1,1,1,1,ninguna,1,Favor monetario
+6,4,M,1,5,4,5,4,3,3,2,2,2,1,1,1,1,1,1,Medicina humana,2,Regalos
+4,3,M,2,4,3,3,2,1,1,1,1,1,1,1,2,1,1,1,Ninguna,1,Regalos
+5,3,M,2,2,4,2,2,2,1,2,1,1,2,2,3,1,2,1,Ninguna,2,Regalos
+4,3,F,2,2,2,2,1,2,2,1,1,2,1,1,3,1,2,1,Ninguna,3,Favor sexual
+3,4,M,2,4,4,3,3,3,3,2,2,3,1,2,2,2,1,2,FisiologÃ­a,2,Polladas
+3,3,M,1,4,1,3,2,2,3,1,1,1,1,1,3,1,1,1,ninguna,1,Polladas
+2,2,M,1,4,2,2,3,1,2,1,1,1,1,1,2,1,1,1,NingÃºn curso,2,Favor monetario
