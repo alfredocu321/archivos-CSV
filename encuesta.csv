@@ -1,3 +1,4 @@
+genero;edad;nivel_ingreso;sabia_fruta_liofilizada;interes_consumir;compraria;variedad_preferida;precio_dispuesto;importancia_empaque;frecuencia_compra
 femenino;entre 15 a 25;de S/. 1500 a S/. 2000;Sí;Tal vez;si lo compraria;arandano liofilizado;de S/. 14.1 a S/. 16;poco importante;de 4 a 5 veces a la semana
 masculino;entre 15 a 25;de S/. 1500 a S/. 2000;Sí;Sí;quizas lo compraria;fresa liofilizado;de S/. 16.1 a S/. 18;muy importante;de 4 a 5 veces a la semana
 masculino;entre 15 a 25;de S/. 930 a S/. 1500;Sí;Sí;definitivamente lo compraria;fresa liofilizado;de S/. 14.1 a S/. 16;poco importante;una vez a la semana
@@ -298,4 +299,5 @@ masculino;entre 15 a 25;de S/. 1500 a S/. 2000;No;Sí;definitivamente lo comprar
 femenino;entre 26 a 35;de S/. 2500 a S/. 4000;Sí;Tal vez;definitivamente lo compraria;aguaymanto liofilizado;de S/. 14.1 a S/. 16;muy importante;una vez a la semana
 femenino;entre 15 a 25;de S/. 2500 a S/. 4000;Sí;Sí;definitivamente lo compraria;fresa liofilizado;de S/. 10 a S/. 12;muy importante;de 2 a 3 veces a la semana
 masculino;entre 36 a 45;de S/. 930 a S/. 1500;Sí;Sí;si lo compraria;platanos liofilizado;de S/. 12.1 a S/. 14;nada importante;de 2 a 3 veces a la semana
+
 
